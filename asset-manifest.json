@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/static/css/main.907d3876.chunk.css",
-    "main.js": "/static/js/main.1b219357.chunk.js",
-    "main.js.map": "/static/js/main.1b219357.chunk.js.map",
+    "main.js": "/static/js/main.365a9d22.chunk.js",
+    "main.js.map": "/static/js/main.365a9d22.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.0be6d443.js",
     "runtime-main.js.map": "/static/js/runtime-main.0be6d443.js.map",
     "static/css/2.17e5ed98.chunk.css": "/static/css/2.17e5ed98.chunk.css",
-    "static/js/2.bad16599.chunk.js": "/static/js/2.bad16599.chunk.js",
-    "static/js/2.bad16599.chunk.js.map": "/static/js/2.bad16599.chunk.js.map",
+    "static/js/2.c0c00a3c.chunk.js": "/static/js/2.c0c00a3c.chunk.js",
+    "static/js/2.c0c00a3c.chunk.js.map": "/static/js/2.c0c00a3c.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.8fea5a7ba2cdc23a62e1c2997dc101e9.js": "/precache-manifest.8fea5a7ba2cdc23a62e1c2997dc101e9.js",
+    "precache-manifest.8c0645f08cc85e11d0548d97f28b7e5f.js": "/precache-manifest.8c0645f08cc85e11d0548d97f28b7e5f.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.17e5ed98.chunk.css.map": "/static/css/2.17e5ed98.chunk.css.map",
     "static/css/main.907d3876.chunk.css.map": "/static/css/main.907d3876.chunk.css.map",
-    "static/js/2.bad16599.chunk.js.LICENSE.txt": "/static/js/2.bad16599.chunk.js.LICENSE.txt",
+    "static/js/2.c0c00a3c.chunk.js.LICENSE.txt": "/static/js/2.c0c00a3c.chunk.js.LICENSE.txt",
     "static/media/Batool-dp.jpg": "/static/media/Batool-dp.cb062359.jpg",
     "static/media/SohaibNew.jpeg": "/static/media/SohaibNew.ad6922a6.jpeg",
     "static/media/Talha-dp-new.jpg": "/static/media/Talha-dp-new.521bdcca.jpg",
@@ -29,16 +29,14 @@
     "static/media/subscribe-bg.png": "/static/media/subscribe-bg.32590a11.png",
     "static/media/sunflower.PNG": "/static/media/sunflower.be659aec.PNG",
     "static/media/sunflowerThumbnail.PNG": "/static/media/sunflowerThumbnail.7de64884.PNG",
-    "static/media/switcheroo.PNG": "/static/media/switcheroo.42aae2f5.PNG",
-    "static/media/switcherooThumb1.png": "/static/media/switcherooThumb1.c427b59e.png",
     "static/media/vibrantWeb.PNG": "/static/media/vibrantWeb.5b9c135f.PNG",
     "static/media/yeo1.PNG": "/static/media/yeo1.734ceafc.PNG"
   },
   "entrypoints": [
     "static/js/runtime-main.0be6d443.js",
     "static/css/2.17e5ed98.chunk.css",
-    "static/js/2.bad16599.chunk.js",
+    "static/js/2.c0c00a3c.chunk.js",
     "static/css/main.907d3876.chunk.css",
-    "static/js/main.1b219357.chunk.js"
+    "static/js/main.365a9d22.chunk.js"
   ]
 }
