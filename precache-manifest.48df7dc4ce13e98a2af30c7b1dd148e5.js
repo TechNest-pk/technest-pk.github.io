@@ -1,35 +1,39 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ed29a4518763e0adbe69de096fe85f6b",
+    "revision": "93b2b26a50b50ca86c41566ff770f984",
     "url": "/index.html"
   },
   {
-    "revision": "1b5d176c0fcec7057542",
-    "url": "/static/css/2.17e5ed98.chunk.css"
+    "revision": "bc785e7b46da76c4ba60",
+    "url": "/static/css/2.9233ae65.chunk.css"
   },
   {
-    "revision": "9ae122668eac35af2f24",
-    "url": "/static/css/main.81713726.chunk.css"
+    "revision": "5b95784f5b957b3a8800",
+    "url": "/static/css/main.58af97b4.chunk.css"
   },
   {
-    "revision": "1b5d176c0fcec7057542",
-    "url": "/static/js/2.2bd6d1f3.chunk.js"
+    "revision": "bc785e7b46da76c4ba60",
+    "url": "/static/js/2.b4a52cb0.chunk.js"
   },
   {
-    "revision": "584e7a16bcc0805d270921d9a679d2f4",
-    "url": "/static/js/2.2bd6d1f3.chunk.js.LICENSE.txt"
+    "revision": "b1952f77a32fbdc9c44e267690252ac4",
+    "url": "/static/js/2.b4a52cb0.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "9ae122668eac35af2f24",
-    "url": "/static/js/main.37a59d61.chunk.js"
+    "revision": "5b95784f5b957b3a8800",
+    "url": "/static/js/main.e8547b1a.chunk.js"
   },
   {
-    "revision": "10637b4b3801bc260045",
-    "url": "/static/js/runtime-main.0be6d443.js"
+    "revision": "ee39e7b5ee421ba7005d",
+    "url": "/static/js/runtime-main.e2ba5dc5.js"
   },
   {
     "revision": "cb062359bbab0df88edb0e2f42e2c7d8",
     "url": "/static/media/Batool-dp.cb062359.jpg"
+  },
+  {
+    "revision": "bc62ddc4da036229b6881d5bfd789ce0",
+    "url": "/static/media/Moiz.bc62ddc4.jpeg"
   },
   {
     "revision": "ad6922a63e9287bd3da2601abd717e1a",
@@ -64,16 +68,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/heights.110272ca.jpg"
   },
   {
-    "revision": "1fa647fd393b2151ee0718395b594d61",
-    "url": "/static/media/logo.1fa647fd.png"
-  },
-  {
     "revision": "457dc95db551e67a59372eaa583002ae",
     "url": "/static/media/mylogo-new.457dc95d.png"
-  },
-  {
-    "revision": "6b6a077a33d8028ec6c5f18e848035ef",
-    "url": "/static/media/owais-1.6b6a077a.jpg"
   },
   {
     "revision": "7fb6d5de4000ab719bb642cf5bdb19e0",
@@ -106,10 +102,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "c427b59ef7da3c4fcb057cf2d25db1a3",
     "url": "/static/media/switcherooThumb1.c427b59e.png"
-  },
-  {
-    "revision": "f33a2dcc8bbb654c5791f581dab8f59a",
-    "url": "/static/media/testimonial.f33a2dcc.jpg"
   },
   {
     "revision": "5b9c135f2542fe4ec7755fa524ddba19",
